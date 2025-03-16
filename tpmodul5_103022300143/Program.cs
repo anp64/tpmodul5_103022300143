@@ -5,9 +5,9 @@ class program
 {
     static void Main()
     {
-        HaloGeneric.sapaUser("nama");
+        HaloGeneric.sapaUser("angga nicola p");
 
-        DataGeneric<string> data = new DataGeneric<string>("111");
+        DataGeneric<string> data = new DataGeneric<string>("103022300143");
         data.PrintData();
     }
 }
